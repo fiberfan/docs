@@ -1,16 +1,17 @@
 
-Phase 4: Iterate and Improve
-----------------------------
+Phase 4: Iterate and Improve the Closed Loop
+---------------------------
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 6
    
-
-
-   Observing-closed-loop
-   troubleshooting-loop
-
-
+   considerations
+   daytime-testing
+   Usability-considerations
+   keeping-up-to-date
+   advanced-features
+   ifttt-integration
+   ifttt-google-assistant
 
    
 
